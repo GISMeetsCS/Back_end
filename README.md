@@ -68,6 +68,8 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iharsh234/WebApp/issues/new). Please include sample queries and their corresponding results.
 
+## Naming Rule
+- DB: https://github.com/RootSoft/Database-Naming-Convention
 
 ## Built with 
 
