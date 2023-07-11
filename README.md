@@ -71,6 +71,10 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ## Naming Rule
 - DB: https://github.com/RootSoft/Database-Naming-Convention
 
+## DB Diagram
+<img width="502" alt="image" src="https://github.com/GISMeetsCS/Back_end/assets/24736765/69c8f60a-7cbd-4930-91f9-316d4cf2dd6a">
+
+
 ## Built with 
 
 - [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
